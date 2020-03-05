@@ -1,0 +1,13 @@
+.git
+.gitignore
+LICENSE
+VERSION
+README.md 
+Changelog.md 
+.editorconfig
+.git
+.gitignore
+.gitlab-ci.yml
+.idea
+.pre-commit-config.yaml
+Makefile
